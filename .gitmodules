@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MIMSunit"]
+	path = MIMSunit
+	url = https://github.com/mhealthgroup/mimsunit
+	shallow = true
+	registered = true
